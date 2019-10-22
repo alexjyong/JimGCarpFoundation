@@ -16,6 +16,10 @@ p {
   line-height: 1.75;
 }
 
+.bottom-links {
+    color: #4c00ff
+}
+
 a {
   color: #fed136;
 }
